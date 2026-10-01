@@ -1,13 +1,89 @@
 <h1 align="center">Hi 👋, I'm Aayush Garg</h1>
-<h3 align="center">A passionate Data Scientist And a Machine Learning engineer from India</h3>
 
-- 📫 How to reach me **aayushpawangarg@gmail.com**
+<h3 align="center">CSE Student • Python Developer • Data Science & AI Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aayush-garg-2a62ba382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-garg-2a62ba382" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_5aayush_?stkn=dmxzM3NnN2hxNXh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayu.shgarg4545" height="30" width="40" /></a>
+<p align="center">
+  I build projects to learn by doing — from data analysis and machine learning to AI-powered applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering student
+- 🐍 Currently strengthening my **Python, DSA, and Data Science** skills
+- 📊 Learning **NumPy, Pandas, Statistics, SQL & Machine Learning**
+- 🤖 Exploring **Generative AI, LangChain & AI Agents**
+- 🚆 Building **RailWise AI**, an AI-powered railway travel assistant
+- 💡 Interested in turning real-world problems into practical software
+- 📫 Reach me at **aayushpawangarg@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+</p>
+
+#### Data Science & AI
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+</p>
+
+#### Tools & Technologies
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+---
+
+### 🚀 Featured Project
+
+#### 🚆 RailWise AI
+An AI-powered railway travel assistant designed to simplify train discovery.
+
+**Working on:**
+- Train search based on source and destination
+- Date, class, time and budget preferences
+- Train availability and timetable information
+- AI-assisted travel recommendations
+- Pre-filled booking links
+
+**Built with:** Python • Streamlit • APIs • Generative AI
+
+---
+
+### 📚 Currently Learning
+
+```text
+Python
+ ├── Data Structures & Algorithms
+ ├── NumPy & Pandas
+ ├── Statistics & Probability
+ ├── SQL & DBMS
+ └── Machine Learning
+       └── Generative AI & AI Agents
+```
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/aayush-garg-2a62ba382" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+</p>
+
+📫 **Email:** aayushpawangarg@gmail.com
