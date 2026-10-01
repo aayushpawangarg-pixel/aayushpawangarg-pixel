@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aayush Garg</h1>
-
-<h3 align="center">CSE Student • Python Developer • Data Science & AI Enthusiast</h3>
-
-<p align="center">
-  I build projects to learn by doing — from data analysis and machine learning to AI-powered applications.
+I build projects to learn by doing — from data analysis and machine learning to AI-powered applications.
 </p>
 
 ---
@@ -36,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
 </p>
 
 #### Tools & Technologies
@@ -74,16 +70,3 @@ Python
  ├── SQL & DBMS
  └── Machine Learning
        └── Generative AI & AI Agents
-```
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/aayush-garg-2a62ba382" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>
-
-📫 **Email:** aayushpawangarg@gmail.com
