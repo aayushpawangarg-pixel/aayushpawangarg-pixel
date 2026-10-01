@@ -74,32 +74,30 @@ An AI-powered railway travel assistant designed to simplify train discovery and 
 
 ### 📚 Currently Learning
 
+```text
 Python
- ├── Data Structures & Algorithms
- ├── NumPy & Pandas
- ├── Statistics & Probability
- ├── SQL & DBMS
- └── Machine Learning
-       └── Generative AI & AI Agents
-
-🤝 Connect With Me
+├── Data Structures & Algorithms
+├── NumPy & Pandas
+├── Statistics & Probability
+├── SQL & DBMS
+└── Machine Learning
+    └── Generative AI & AI Agents
+```
+###🤝 Connect With Me
 <p align="left">
-
   <a href="https://linkedin.com/in/aayush-garg-2a62ba382" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn"
          height="30"
          width="40"/>
   </a>
-
-    
+  
   <a href="https://www.instagram.com/_5aayush_/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
          alt="Instagram"
          height="30"
          width="40"/>
   </a>
-
 </p>
 
 📫 Email: aayushpawangarg@gmail.com
