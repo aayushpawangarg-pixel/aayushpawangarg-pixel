@@ -74,7 +74,6 @@ An AI-powered railway travel assistant designed to simplify train discovery and 
 
 ### 📚 Currently Learning
 
-```text
 Python
  ├── Data Structures & Algorithms
  ├── NumPy & Pandas
